@@ -1,0 +1,12 @@
+name: BAMHBI-DIAG
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - packaging
+  - pandas
+  - netCDF4
+  - scipy
+  - xarray
+  - xgcm
